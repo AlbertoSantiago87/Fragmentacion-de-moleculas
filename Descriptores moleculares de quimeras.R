@@ -1,0 +1,1 @@
+# codigo de descriptores moleculares de las quimeras 
